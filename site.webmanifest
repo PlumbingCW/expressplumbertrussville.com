@@ -1,0 +1,21 @@
+{
+ "name": "Trussville Express Plumbing",
+ "short_name": "Trussville Express",
+ "description": "24/7 emergency plumber in Trussville, AL",
+ "start_url": "/",
+ "display": "browser",
+ "background_color": "#FFFFFF",
+ "theme_color": "#291B15",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
